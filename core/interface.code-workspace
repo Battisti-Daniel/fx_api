@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "JavaFX App",
+			"path": "."
+		},
+		{
+			"name": "Spring Boot API",
+			"path": "api"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.import.maven.enabled": true
+	}
+}

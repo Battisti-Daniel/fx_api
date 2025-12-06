@@ -1,0 +1,8 @@
+database/Migrations.class
+database/DatabaseDTO/ServerDTO.class
+database/Database.class
+database/migrations/Get.class
+database/Execute.class
+Main.class
+screens/Home.class
+database/migrations/CreateTables.class

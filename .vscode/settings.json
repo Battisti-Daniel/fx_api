@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "/usr/share/java/java-openjfx/*.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.import.maven.enabled": true
+}

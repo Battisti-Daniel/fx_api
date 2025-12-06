@@ -1,0 +1,13 @@
+/home/daniel/java/interface/core/src/main/java/Main.java
+/home/daniel/java/interface/core/src/main/java/database/Database.java
+/home/daniel/java/interface/core/src/main/java/database/DatabaseDTO/ServerDTO.java
+/home/daniel/java/interface/core/src/main/java/database/Execute.java
+/home/daniel/java/interface/core/src/main/java/database/Migrations.java
+/home/daniel/java/interface/core/src/main/java/database/migrations/CreateAccount.java
+/home/daniel/java/interface/core/src/main/java/database/migrations/CreateServer.java
+/home/daniel/java/interface/core/src/main/java/database/migrations/CreateTables.java
+/home/daniel/java/interface/core/src/main/java/database/migrations/ExecuteInsert.java
+/home/daniel/java/interface/core/src/main/java/database/migrations/Get.java
+/home/daniel/java/interface/core/src/main/java/screens/AccountLogin.java
+/home/daniel/java/interface/core/src/main/java/screens/Home.java
+/home/daniel/java/interface/core/src/main/java/validations/ValidateLogin.java

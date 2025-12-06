@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Spring Boot API",
+            "request": "launch",
+            "mainClass": "com.daniel.api.ApiApplication",
+            "projectName": "api",
+            "cwd": "${workspaceFolder}/api"
+        },
+        {
+            "type": "java",
+            "name": "Run JavaFX App",
+            "request": "launch",
+            "mainClass": "Main",
+            "preLaunchTask": "Run JavaFX App"
+        }
+    ]
+}
